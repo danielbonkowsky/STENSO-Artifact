@@ -1,0 +1,32 @@
+Benchmark,Class
+github_2,Strength Reduction
+github_14,Strength Reduction
+synth_11,Strength Reduction
+synth_1,Strength Reduction
+synth_8,Strength Reduction
+synth_12,Strength Reduction
+github_20,Strength Reduction
+github_1,Strength Reduction
+github_7,Algebraic Simplification
+github_10,Algebraic Simplification
+github_12,Algebraic Simplification
+github_16,Algebraic Simplification
+synth_3,Algebraic Simplification
+synth_4,Algebraic Simplification
+synth_5,Algebraic Simplification
+synth_6,Algebraic Simplification
+synth_7,Algebraic Simplification
+github_3,Identity Replacement
+github_4,Identity Replacement
+github_5,Identity Replacement
+github_9,Identity Replacement
+github_11,Identity Replacement
+github_17,Identity Replacement
+github_13,Redundancy Elimination
+github_15,Redundancy Elimination
+github_19,Redundancy Elimination
+synth_2,Redundancy Elimination
+github_8,Vectorization
+synth_10,Vectorization
+github_18,Vectorization
+github_21,Vectorization
